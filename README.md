@@ -3,8 +3,8 @@ A tool to encode your .cpp file with whatever you want
 
 ## How to use
 - open your terminal
-- type "pip install HotCoder" in your terminal
-- type "hot3ncoder -i \<YourCppFilePath\> -s \<Symbols you want\n>
+- type "pip install Hot3nCoder" in your terminal
+- type "Hot3nCoder -i \<YourCppFilePath\> -s \<Symbols you want\n>
   - notice that symbols should split with " "
 - the Encoded file will generate in the same directory of your cpp file
 
